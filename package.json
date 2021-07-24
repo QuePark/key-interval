@@ -1,0 +1,33 @@
+{
+  "name": "key-interval",
+  "version": "0.1.0",
+  "description": "You can set or clear time interval with key. It's like setInterval and clearInterval. You must use a keyword 'new' because it is class object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "bin": {
+    "test": "bin/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuePark/key-interval.git"
+  },
+  "keywords": [
+    "interval",
+    "setInterval",
+    "setTimeout",
+    "Time",
+    "Timeout",
+    "timeout",
+    "Interval",
+    "interval-as-calss",
+    "key-interval"
+  ],
+  "author": "Gyuha Park",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuePark/key-interval/issues"
+  },
+  "homepage": "https://github.com/QuePark/key-interval#readme"
+}
