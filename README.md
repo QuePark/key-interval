@@ -96,11 +96,5 @@ runTest();
 You can test this module with script `npm test` or `npm run test`.
 
 ```shell
-npm test
-```
-
-Or
-
-```shell
-npm run test
+node node_modules/key-interval/test.js
 ```
