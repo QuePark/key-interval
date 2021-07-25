@@ -1,6 +1,6 @@
 {
   "name": "key-interval",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "You can set or clear time interval with key. It's like setInterval and clearInterval. You must use a keyword 'new' because it is class object.",
   "main": "index.js",
   "scripts": {

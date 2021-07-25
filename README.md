@@ -13,7 +13,7 @@ npm i key-interval
 The package exports the `KeyInterval`class as default export.
 
 ```js
-const KeyInterval = require('./index.js');
+const KeyInterval = require('key-interval');
 ```
 
 There are functions to help you.
@@ -69,7 +69,7 @@ Params: *no exist*
 ## Example
 
 ```js
-const KeyInterval = require('./index.js');
+const KeyInterval = require('key-interval');
 
 const runTest = () => {
 	const SETTIME = 1000;
